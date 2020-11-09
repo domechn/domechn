@@ -32,6 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [记一次 WebSocket 连接泄露排查](https://blog.domgoer.io/2019/12/29/websocket-leak/)
+- [ExitCode: 128 之无任何错误信息](https://blog.domgoer.io/2019/11/21/exit-code-128/)
+- [如何将Drone CI调度到Virtual Kubelet](https://blog.domgoer.io/2019/11/18/drone-virtual-kublet/)
+- [Drone 在 K8S 中执行一次构建都经历了什么](https://blog.domgoer.io/2019/10/22/drone-in-k8s/)
+- [kubectl run 背后做了什么](https://blog.domgoer.io/2019/08/29/kubectl-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.domgoer.io)
