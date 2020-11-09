@@ -42,6 +42,11 @@
     <summary> ⚡️ Recent GitHub Activity </summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4](https://github.com/domgoer/msg-pusher/issues/4) in [domgoer/msg-pusher](https://github.com/domgoer/msg-pusher)
+2. 🗣 Commented on [#4](https://github.com/domgoer/msg-pusher/issues/4) in [domgoer/msg-pusher](https://github.com/domgoer/msg-pusher)
+3. 🗣 Commented on [#4](https://github.com/domgoer/msg-pusher/issues/4) in [domgoer/msg-pusher](https://github.com/domgoer/msg-pusher)
+4. ❗️ Closed issue [#25](https://github.com/AliyunContainerService/serverless-k8s-examples/issues/25) in [AliyunContainerService/serverless-k8s-examples](https://github.com/AliyunContainerService/serverless-k8s-examples)
+5. 🗣 Commented on [#25](https://github.com/AliyunContainerService/serverless-k8s-examples/issues/25) in [AliyunContainerService/serverless-k8s-examples](https://github.com/AliyunContainerService/serverless-k8s-examples)
 <!--END_SECTION:activity-->
 </details>
 
