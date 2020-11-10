@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=domgoer.io&style=for-the-badge&url=https%3A%2F%2Fblog.domgoer.io)](https://blog.domgoer.io)
 
+
 ## I'm a Developer, and Photographer!!
 
 - 🏖 Waiting for vacation
@@ -26,6 +27,8 @@
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domgoer&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -57,8 +60,6 @@
 
 <details>
     <summary> ⚡️ GitHub Stats </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domgoer&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="domgoer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=domgoer&show_icons=true&hide_border=true" />
 
