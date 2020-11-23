@@ -1,6 +1,6 @@
 ### Hi there, I'm DomChan - aka [domgoer][website] 👋
 
-[![Website](https://img.shields.io/website?label=domgoer.io&style=for-the-badge&url=https%3A%2F%2Fblog.domc.me)](https://blog.domc.me)
+[![Website](https://img.shields.io/website?label=domc.me&style=for-the-badge&url=https%3A%2F%2Fblog.domc.me)](https://blog.domc.me)
 
 
 ## I'm a Developer, and Photographer!!
