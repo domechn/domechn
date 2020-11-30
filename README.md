@@ -50,11 +50,11 @@
     <summary> ⚡️ Recent GitHub Activity </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
+1. ❗️ Opened issue [#2720](https://github.com/SeldonIO/seldon-core/issues/2720) in [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core)
 2. 🗣 Commented on [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
 3. 🗣 Commented on [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
-4. ❗️ Opened issue [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
-5. ❗️ Closed issue [#4](https://github.com/domgoer/msg-pusher/issues/4) in [domgoer/msg-pusher](https://github.com/domgoer/msg-pusher)
+4. 🗣 Commented on [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
+5. ❗️ Opened issue [#80](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues/80) in [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
 <!--END_SECTION:activity-->
 </details>
 
