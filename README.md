@@ -1,4 +1,4 @@
-### Hi there, I'm DomChan - aka [domgoer][website] 👋
+### Hi there, I'm DomChan - aka [domechn][website] 👋
 
 [![Website](https://img.shields.io/website?label=domc.me&style=for-the-badge&url=https%3A%2F%2Fblog.domc.me)](https://blog.domc.me)
 
@@ -61,7 +61,7 @@
 <details>
     <summary> ⚡️ GitHub Stats </summary>
 
-<img align="left" alt="domgoer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=domgoer&show_icons=true&hide_border=true" />
+<img align="left" alt="domechn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=domechn&show_icons=true&hide_border=true" />
 
 </details>
 
