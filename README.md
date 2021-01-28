@@ -50,10 +50,10 @@
     <summary> ⚡️ Recent GitHub Activity </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/iftechio/jki/pull/15) in [iftechio/jki](https://github.com/iftechio/jki)
-2. 💪 Opened PR [#15](https://github.com/iftechio/jki/pull/15) in [iftechio/jki](https://github.com/iftechio/jki)
-3. 🗣 Commented on [#232](https://github.com/aliyun/aliyun-cli/issues/232) in [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli)
-4. 🗣 Commented on [#2720](https://github.com/SeldonIO/seldon-core/issues/2720) in [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core)
+1. ❗️ Opened issue [#18](https://github.com/lklepner/socket.io-adapter-mongo/issues/18) in [lklepner/socket.io-adapter-mongo](https://github.com/lklepner/socket.io-adapter-mongo)
+2. 🎉 Merged PR [#15](https://github.com/iftechio/jki/pull/15) in [iftechio/jki](https://github.com/iftechio/jki)
+3. 💪 Opened PR [#15](https://github.com/iftechio/jki/pull/15) in [iftechio/jki](https://github.com/iftechio/jki)
+4. 🗣 Commented on [#232](https://github.com/aliyun/aliyun-cli/issues/232) in [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli)
 5. 🗣 Commented on [#2720](https://github.com/SeldonIO/seldon-core/issues/2720) in [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core)
 <!--END_SECTION:activity-->
 </details>
