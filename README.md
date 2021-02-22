@@ -1,6 +1,7 @@
 ### Hi there, I'm DomChan - aka [domechn][website] 👋
 
 [![Website](https://img.shields.io/website?label=domc.me&style=for-the-badge&url=https%3A%2F%2Fblog.domc.me)](https://blog.domc.me)
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/798?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
 ## I'm a Developer, and Photographer!!
