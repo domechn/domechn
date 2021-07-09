@@ -4,7 +4,7 @@
 ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/798?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
-## I'm a Developer, and Photographer!!
+## I'm a Developer, and ETH Believer!!
 
 - 🏖 Waiting for vacation
 
