@@ -7,6 +7,7 @@
 ## I'm a Developer, and ETH Believer!!
 
 - 🏖 Waiting for vacation
+- 💴 Buying more eth
 
 <br />
 
