@@ -9,7 +9,7 @@
 🏖 Waiting for vacation <br/>
 💴 Buying more eth
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=domechn&show_icons=true&hide_border=true" width=300 height=300 />
+<img align="right" src="./assets.svg" width=300 height=300 />
 </div>
     
 <br />
@@ -55,8 +55,8 @@
     <summary> ⚡️ Recent GitHub Activity </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/pixie-io/pixie/pull/352) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
-2. 🗣 Commented on [#349](https://github.com/pixie-io/pixie/issues/349) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
+1. 🎉 Merged PR [#2](https://github.com/domechn/irsa-controller/pull/2) in [domechn/irsa-controller](https://github.com/domechn/irsa-controller)
+2. 🗣 Commented on [#2055](https://github.com/warpdotdev/Warp/issues/2055) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 3. 💪 Opened PR [#349](https://github.com/pixie-io/pixie/pull/349) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 4. ❗️ Opened issue [#348](https://github.com/pixie-io/pixie/issues/348) in [pixie-io/pixie](https://github.com/pixie-io/pixie)
 5. 🎉 Merged PR [#1](https://github.com/domechn/domechn.github.io/pull/1) in [domechn/domechn.github.io](https://github.com/domechn/domechn.github.io)

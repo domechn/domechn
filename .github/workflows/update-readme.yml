@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - uses: actions/checkout@v3
@@ -18,17 +18,27 @@ jobs:
       - name: yarn setup
         uses: DerYeger/yarn-setup-action@v1.0.1
         with:
-          # The version of Node.js that will be used
           node-version: 18
       # update assets
       - uses: actions/checkout@v3
         with:
-          repository: domechn/asset-statistics@master
+          repository: domechn/asset-statistics
           path: asset-statistics
       - run: |
           yarn
           yarn build
-          env
-          yarn gen -o $WORKFLOW_PATH/assets.svg
+          cat<<'EOF'> config.yaml
+          ${{ secrets.ASSETS_CONFIG }} 
+          EOF
+          yarn gen -o assets.svg
+          pwd
         name: update assets
         working-directory: asset-statistics
+      - name: push to git
+        run: |
+         pwd
+         cp asset-statistics/assets.svg .
+         git add assets.svg
+         git commit -m "Upadte assets.svg to latest"
+         git push
+         
