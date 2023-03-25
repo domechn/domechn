@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: GitHub - Readme
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: self-hosted
+  activity:
+    runs-on: ubuntu
 
     steps:
       - uses: actions/checkout@v3
@@ -15,6 +15,11 @@ jobs:
         name: update activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  assets:
+    runs-on: self-hosted
+    needs: activity
+    steps:
+      - uses: actions/checkout@v3
       - name: yarn setup
         uses: DerYeger/yarn-setup-action@v1.0.1
         with:
