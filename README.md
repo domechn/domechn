@@ -5,9 +5,13 @@
 
 ## I'm a Developer, and ETH Believer!!
 
-- 🏖 Waiting for vacation
-- 💴 Buying more eth
+<div>
+🏖 Waiting for vacation <br/>
+💴 Buying more eth
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=domechn&show_icons=true&hide_border=true" width=300 height=300 />
+</div>
+    
 <br />
 
 ### Languages and Tools:
