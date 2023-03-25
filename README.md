@@ -9,7 +9,9 @@
 🏖 Waiting for vacation <br/>
 💴 Buying more eth
 
+<a href="https://github.com/domechn/asset-statistics">
 <img align="right" src="./assets.svg" width=300 height=300 />
+</a>
 </div>
     
 <br />
