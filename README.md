@@ -5,16 +5,14 @@
 
 ## I'm a Developer, and ETH Believer!!
 
-<div>
-🏖 Waiting for vacation <br/>
-💴 Buying more eth
+- 🏖 Waiting for vacation
+- 💴 Buying more eth
+
 
 <a href="https://github.com/domechn/asset-statistics">
-<img align="right" src="./assets.svg" width=300 height=300 />
+<img src="./assets.svg" width=300 height=300 />
 </a>
-</div>
-    
-<br />
+
 
 ### Languages and Tools:
 
