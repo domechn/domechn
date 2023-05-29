@@ -9,8 +9,8 @@
 - 💴 Buying more eth
 
 
-<a href="https://github.com/domechn/asset-statistics">
-<img src="./assets.svg" width=300 height=300 />
+<a href="https://github.com/domechn/track3">
+<img src="./assets.png" width=300 height=300 />
 </a>
 
 
