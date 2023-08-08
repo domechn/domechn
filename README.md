@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何管理我的加密货币资产](https://domc.me/2023/06/30/how_to_manage_crypto_assets/)
 - [Cilium 从 0 到 0.1](https://domc.me/2021/10/17/cilium_0_to_0_1/)
 - [Kubernetes Gateway API](https://domc.me/2021/05/10/k8s_gateway_api/)
 - [记一次 WebSocket 连接泄露排查](https://domc.me/2019/12/29/websocket_leak/)
 - [ExitCode: 128 之无任何错误信息](https://domc.me/2019/11/21/exit_code_128/)
-- [如何将Drone CI调度到Virtual Kubelet](https://domc.me/2019/11/18/drone_virtual_kublet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.domc.me)
