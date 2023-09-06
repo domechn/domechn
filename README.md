@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/domechn/track3">
-<img src="./assets.png" width=300 height=300 />
+<img src="./assets.jpg" width=300 />
 </a>
 
 
