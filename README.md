@@ -28,11 +28,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Monorepo 依赖管理最佳实践](https://domc.me/2026/01/21/go_monorepo_optimization/)
 - [ArgoCD Monorepo 性能优化之路（二）](https://domc.me/2024/09/02/argocd_mono_repo_performance_optimization_second/)
 - [ArgoCD Monorepo 性能优化之路](https://domc.me/2024/08/03/argocd_mono_repo_performance_optimization/)
 - [如何管理我的加密货币资产](https://domc.me/2023/06/30/how_to_manage_crypto_assets/)
 - [Cilium 从 0 到 0.1](https://domc.me/2021/10/17/cilium_0_to_0_1/)
-- [Kubernetes Gateway API](https://domc.me/2021/05/10/k8s_gateway_api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.domc.me)
