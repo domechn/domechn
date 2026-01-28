@@ -31,7 +31,7 @@ const domechn = {
         cloud: ["AWS", "GCP", "Kubernetes"],
     },
     currentFocus: "Building awesome crypto portfolio tracking tools 📊",
-    funFacts: ["🏖 Waiting for vacation", "💎 Buying more ETH", "☕️ Powered by coffee"]
+    funFacts: ["🏖 Waiting for vacation", "💎 Buying more stocks", "☕️ Powered by coffee"]
 };
 ```
 
@@ -124,7 +124,7 @@ const domechn = {
 - [ArgoCD Monorepo Performance Optimization Journey](https://domc.me/en/posts/argocd-monorepo-performance-optimization.html)
 <!-- BLOG-POST-LIST:END -->
 
-**[➡️ Read More Posts](https://blog.domc.me)**
+**[➡️ Read More Posts](https://domc.me)**
 
 </div>
 
@@ -170,4 +170,4 @@ const domechn = {
 
 </div>
 
-[website]: https://blog.domc.me
+[website]: https://domc.me
