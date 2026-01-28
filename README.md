@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9EF7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;ETH+Believer+%F0%9F%9A%80;Cloud+Native+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-domc.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://domc.me)
-[![Blog](https://img.shields.io/badge/Blog-blog.domc.me-orange?style=for-the-badge&logo=rss&logoColor=white)](https://blog.domc.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/domechn?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/domechn)
+[![Email](https://img.shields.io/badge/Email-domdoumc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domdoumc@gmail.com)
+[![X Follow](https://img.shields.io/twitter/follow/truedomchan?style=for-the-badge&logo=x&logoColor=white&color=000000&label=Follow%20%40truedomchan)](https://x.com/truedomchan)
 
 </div>
 
@@ -152,9 +152,9 @@ const domechn = {
 
 ### 💬 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domechn)
+[![X](https://img.shields.io/badge/X-@truedomchan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/truedomchan)
 [![Website](https://img.shields.io/badge/Website-domc.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://domc.me)
-[![Blog](https://img.shields.io/badge/Blog-blog.domc.me-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://blog.domc.me)
+[![Email](https://img.shields.io/badge/Email-domdoumc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domdoumc@gmail.com)
 
 ---
 
