@@ -117,11 +117,11 @@ const domechn = {
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- 📘 [Best Practices for Go Monorepo Dependency Management](https://domc.me/en/posts/go-monorepo-best-practices.html)
-- 📙 [Go Monorepo 依赖管理最佳实践](https://domc.me/zh/posts/go-monorepo-best-practices.html)
-- 📗 [ArgoCD Monorepo Performance Optimization Journey &lpar;Part 2&rpar;](https://domc.me/en/posts/argocd-monorepo-performance-optimization-2.html)
-- 📕 [ArgoCD Monorepo 性能优化之路（二）](https://domc.me/zh/posts/argocd-monorepo-performance-optimization-2.html)
-- 📔 [ArgoCD Monorepo Performance Optimization Journey](https://domc.me/en/posts/argocd-monorepo-performance-optimization.html)
+- [Best Practices for Go Monorepo Dependency Management](https://domc.me/en/posts/go-monorepo-best-practices.html)
+- [Go Monorepo 依赖管理最佳实践](https://domc.me/zh/posts/go-monorepo-best-practices.html)
+- [ArgoCD Monorepo Performance Optimization Journey &lpar;Part 2&rpar;](https://domc.me/en/posts/argocd-monorepo-performance-optimization-2.html)
+- [ArgoCD Monorepo 性能优化之路（二）](https://domc.me/zh/posts/argocd-monorepo-performance-optimization-2.html)
+- [ArgoCD Monorepo Performance Optimization Journey](https://domc.me/en/posts/argocd-monorepo-performance-optimization.html)
 <!-- BLOG-POST-LIST:END -->
 
 **[➡️ Read More Posts](https://blog.domc.me)**
