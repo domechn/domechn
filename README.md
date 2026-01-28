@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm DomChan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9EF7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;ETH+Believer+%F0%9F%9A%80;Cloud+Native+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9EF7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Crypto+Believer+%F0%9F%9A%80;Cloud+Native+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-domc.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://domc.me)
 [![Email](https://img.shields.io/badge/Email-domdoumc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domdoumc@gmail.com)
