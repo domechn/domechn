@@ -117,11 +117,11 @@ const domechn = {
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [My Daily AI Workflow: Cutting $150/Month with the Right Model Mix](https://domc.me/en/posts/ai-my-daily-workflow.html)
+- [我的日常 AI 工作流：如何组合使用省下 150 美元/月](https://domc.me/zh/posts/ai-my-daily-workflow.html)
 - [I Gave Up on Obsidian and Notion and Built My Own AI-Powered Second Brain](https://domc.me/en/posts/second-brain-with-ai.html)
 - [放弃 Obsidian 和 Notion，我用 AI 给自己造了一套第二大脑](https://domc.me/zh/posts/second-brain-with-ai.html)
 - [Best Practices for Go Monorepo Dependency Management](https://domc.me/en/posts/go-monorepo-best-practices.html)
-- [Go Monorepo 依赖管理最佳实践](https://domc.me/zh/posts/go-monorepo-best-practices.html)
-- [ArgoCD Monorepo Performance Optimization &lpar;Part 2&rpar;: Cache, Sidecar &amp; Git Tuning](https://domc.me/en/posts/argocd-monorepo-performance-optimization-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 **[➡️ Read More Posts](https://domc.me)**
