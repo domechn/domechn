@@ -117,11 +117,11 @@ const domechn = {
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5 and Mythos 5: A New Top Tier, and When to Actually Use It](https://domc.me/en/posts/claude-fable-5-mythos-5.html)
-- [Claude Fable 5 与 Mythos 5：新的顶级模型，以及什么时候该用它](https://domc.me/zh/posts/claude-fable-5-mythos-5.html)
-- [Launch a Company Website and Contact Channel Fast with Cloudflare + Resend](https://domc.me/en/posts/fast-setup-company-landing-page.html)
-- [用 Cloudflare + Resend 快速把官网和联系入口上线](https://domc.me/zh/posts/fast-setup-company-landing-page.html)
-- [My Daily AI Workflow: Cutting $150/Month with the Right Model Mix](https://domc.me/en/posts/ai-my-daily-workflow.html)
+- [Claude Fable 5 and Mythos 5: A New Top Tier, and When to Actually Use It](https://domc.me/en/posts/claude-fable-5-mythos-5)
+- [Claude Fable 5 与 Mythos 5：新的顶级模型，以及什么时候该用它](https://domc.me/zh/posts/claude-fable-5-mythos-5)
+- [Launch a Company Website and Contact Channel Fast with Cloudflare + Resend](https://domc.me/en/posts/fast-setup-company-landing-page)
+- [用 Cloudflare + Resend 快速把官网和联系入口上线](https://domc.me/zh/posts/fast-setup-company-landing-page)
+- [My Daily AI Workflow: Cutting $150/Month with the Right Model Mix](https://domc.me/en/posts/ai-my-daily-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 **[➡️ Read More Posts](https://domc.me)**
