@@ -117,11 +117,11 @@ const domechn = {
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [AgentCore Payments × x402 × Privy: Running It Locally](https://domc.me/en/posts/agentcore-payments-x402-privy)
+- [AgentCore Payments × x402 × Privy：本地复现](https://domc.me/zh/posts/agentcore-payments-x402-privy)
 - [Collecting EKS Audit Logs Across AWS Accounts](https://domc.me/en/posts/cross-account-eks-audit-log-collection)
 - [跨账号集中收集 EKS audit log](https://domc.me/zh/posts/cross-account-eks-audit-log-collection)
 - [Claude Fable 5 and Mythos 5: A New Top Tier, and When to Actually Use It](https://domc.me/en/posts/claude-fable-5-mythos-5)
-- [Claude Fable 5 与 Mythos 5：新的顶级模型，以及什么时候该用它](https://domc.me/zh/posts/claude-fable-5-mythos-5)
-- [Launch a Company Website and Contact Channel Fast with Cloudflare + Resend](https://domc.me/en/posts/fast-setup-company-landing-page)
 <!-- BLOG-POST-LIST:END -->
 
 **[➡️ Read More Posts](https://domc.me)**
