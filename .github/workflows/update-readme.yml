@@ -2,48 +2,18 @@ name: GitHub - Readme
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   activity:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
         name: update activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  assets:
-    runs-on: self-hosted
-    needs: activity
-    steps:
-      - uses: actions/checkout@v3
-      - name: yarn setup
-        uses: DerYeger/yarn-setup-action@v1.0.1
-        with:
-          node-version: 18
-      # update assets
-      - uses: actions/checkout@v3
-        with:
-          repository: domechn/asset-statistics
-          path: asset-statistics
-      - run: |
-          yarn
-          yarn build
-          cat<<'EOF'> config.yaml
-          ${{ secrets.ASSETS_CONFIG }} 
-          EOF
-          yarn gen -o assets.svg
-          pwd
-        name: update assets
-        working-directory: asset-statistics
-      - name: push to git
-        run: |
-         pwd
-         cp asset-statistics/assets.svg .
-         git add assets.svg
-         git commit -m "Upadte assets.svg to latest"
-         git push
-         
